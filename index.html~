@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="LibreOffice 3.5  (Linux)">
+	<META NAME="AUTHOR" CONTENT="chetan ">
+	<META NAME="CREATED" CONTENT="20140709;17421900">
+	<META NAME="CHANGEDBY" CONTENT="chetan ">
+	<META NAME="CHANGED" CONTENT="20140709;17434000">
+	<STYLE TYPE="text/css">
+	<!--
+		@page { margin: 0.79in }
+		P { margin-bottom: 0.08in }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="en-US" DIR="LTR">
+<P STYLE="margin-bottom: 0in">&lt;!DOCTYPE html&gt;</P>
+<P STYLE="margin-bottom: 0in">&lt;html&gt;</P>
+<P STYLE="margin-bottom: 0in">&lt;body&gt;</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">&lt;p&gt;Click the button to display
+the date.&lt;/p&gt;</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">&lt;button onclick=&quot;displayDate()&quot;&gt;The
+time is?&lt;/button&gt;</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">&lt;script&gt;</P>
+<P STYLE="margin-bottom: 0in">function displayDate() {</P>
+<P STYLE="margin-bottom: 0in">   
+document.getElementById(&quot;demo&quot;).innerHTML = Date();</P>
+<P STYLE="margin-bottom: 0in">}</P>
+<P STYLE="margin-bottom: 0in">&lt;/script&gt;</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">&lt;p id=&quot;demo&quot;&gt;&lt;/p&gt;</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in">&lt;/body&gt;</P>
+<P STYLE="margin-bottom: 0in">&lt;/html&gt; 
+</P>
+</BODY>
+</HTML>
